@@ -1,0 +1,5 @@
+--Total people on this train: 
+1. 5
+2. 30
+3. 50
+Total=85

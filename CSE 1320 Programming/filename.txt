@@ -1,0 +1,7 @@
+Large, 4, Chocolate, 4
+Small, 2, Strawberry, 3
+Medium, 3, Vanilla, 2
+Large, 4, Butter Pecan, 3
+Medium, 3, Mocha, 4
+Small, 2, Eggnog, 2
+Medium, 3, Eskimo, 4
