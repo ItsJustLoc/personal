@@ -1,1 +1,0 @@
-Clock time3 = time.add(time2);
